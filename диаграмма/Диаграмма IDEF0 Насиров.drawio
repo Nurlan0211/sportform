@@ -1,0 +1,274 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="KwHkcSDjmz0enQJr8IcT">
+    <mxGraphModel dx="2836" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;IDEF0 A0&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="468.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Организация любительских спортивных турниров с формированием сетки соревнований и учётом результатов&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="920" x="60" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Формирование сетки и учёт результатов&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;спортивных мероприятий&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="511" x="269" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px; color: rgb(61, 166, 49);&quot;&gt;ВХОДЫ (Inputs)&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="85" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-14" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="270" as="sourcePoint" />
+            <mxPoint x="269" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-15" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="310" as="sourcePoint" />
+            <mxPoint x="269" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="359.5" as="sourcePoint" />
+            <mxPoint x="269" y="359.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-17" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="410" as="sourcePoint" />
+            <mxPoint x="269" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Данные об участниках&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;(ФИО, возраст, команда)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="9" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Результаты предыдущих&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;матчей / этапов&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="5" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;Информация о площадках и&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;времени проведения&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="-21" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.405;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320.01" y="200" as="sourcePoint" />
+            <mxPoint x="320.005" y="241.01999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.405;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="413" y="200" as="sourcePoint" />
+            <mxPoint x="413" y="239.99999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-29" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.405;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="510" y="200" as="sourcePoint" />
+            <mxPoint x="510" y="239.99999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.405;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610" y="200" as="sourcePoint" />
+            <mxPoint x="610" y="239.99999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Нормативные&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;документы&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="700" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Права доступа организаторов и судей&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="81.5" x="564.5" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-34" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="280" as="sourcePoint" />
+            <mxPoint x="840" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-36" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="359.5" as="sourcePoint" />
+            <mxPoint x="840" y="359.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-37" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="400" as="sourcePoint" />
+            <mxPoint x="840" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-39" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="312.5" as="sourcePoint" />
+            <mxPoint x="840" y="312.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Календарь соревнований&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="385" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Регламент турнира (формат, правила вида спорта)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="255" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-42" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="450" as="sourcePoint" />
+            <mxPoint x="269" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font&gt;Параметры турнирной сетки (число&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;участников, система розыгрыша)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="-31" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;color: rgb(61, 166, 49);&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;УПРАВЛЕНИЕ (Controls)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="403" y="113" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px; color: rgb(102, 178, 255);&quot;&gt;ВЫХОДЫ (Outputs)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="840" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-48" edge="1" parent="1" source="1B2p2Umz-KcQ7-k_Q241-49" style="endArrow=classic;html=1;rounded=0;entryX=0.118;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.584;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="530" as="sourcePoint" />
+            <mxPoint x="419.99799999999993" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=left;fillColor=#fff2cc;" value="&lt;ul&gt;&lt;li&gt;Управление учётными записями (роли: судья, организатор, участник)&lt;/li&gt;&lt;li&gt;Настройка параметров турнира (виды спорта, возврастные группы и пр.)&lt;/li&gt;&lt;li&gt;Контроль корректности данных в сетке и результатах&lt;/li&gt;&lt;li&gt;Экспорт данных и печать протоколов&lt;/li&gt;&lt;li&gt;Резервное копирование и архивация турниров&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="240" width="240" x="280" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=left;fillColor=#fff2cc;" value="&lt;ul&gt;&lt;li&gt;Приём заявок и регистрация участников&lt;/li&gt;&lt;li&gt;Формирование и публикация сетки&lt;/li&gt;&lt;li&gt;Фиксация результатов матчей&lt;/li&gt;&lt;li&gt;Внесение изменений (переносы, замены, дисквалификации)&lt;/li&gt;&lt;li&gt;Подготовка итоговой отчётности&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="230" width="230" x="540" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-52" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="20" x="350.5" y="553" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-53" edge="1" parent="1" source="1B2p2Umz-KcQ7-k_Q241-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="1B2p2Umz-KcQ7-k_Q241-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Администратор системы&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="389.5" y="553" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-55" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="20" x="610" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Судьи / Организатор&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="646" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Положение о допуске участников&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="81.5" x="468.5" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-59" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.405;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="720" y="200" as="sourcePoint" />
+            <mxPoint x="720" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;text-align: left; font-size: 13px;&quot;&gt;&lt;b&gt;Заявки на участие &lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent; font-size: 13px;&quot;&gt;(индивидуальные / командные)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="29" y="293" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Сформированная турнирная сетка (расписание матчей)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="840" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Актуальные результаты встреч&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="850" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Итоговые протоколы и турнирные таблицы&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="850" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Рейтинг&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="850" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-71" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="449.5" as="sourcePoint" />
+            <mxPoint x="840" y="449.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Отчёты по турниру (для организаторов и федераций)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="845" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px; color: rgb(255, 153, 51);&quot;&gt;&lt;b&gt;МЕХАНИЗМЫ (Mechanism)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="440" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-80" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.118;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.584;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="654.412" y="550" as="sourcePoint" />
+            <mxPoint x="654.41" y="478" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="260" width="1201" x="20" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-82" edge="1" parent="1" source="1B2p2Umz-KcQ7-k_Q241-81" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="318.5189999999998" y="1110" as="sourcePoint" />
+            <mxPoint x="321.48" y="858.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-83" edge="1" parent="1" source="1B2p2Umz-KcQ7-k_Q241-81" style="endArrow=none;html=1;rounded=0;exitX=0.645;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="790" y="1100" as="sourcePoint" />
+            <mxPoint x="790" y="873" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Обозначения IDEFO&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="175" x="80" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-85" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#66B2FF;" value="" vertex="1">
+          <mxGeometry height="30" width="70.5" x="40" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Функциональный блок&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="160" x="120" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Вход (Input)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="110.5" y="975" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-89" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.5" y="1020" as="sourcePoint" />
+            <mxPoint x="110.5" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Выход (Output)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="120" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-91" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.5" y="1060" as="sourcePoint" />
+            <mxPoint x="110.5" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Управление (Controls)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="160" x="120" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-93" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.5" y="1100" as="sourcePoint" />
+            <mxPoint x="110.5" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-94" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;- Механизмы (Mechanism)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="175" x="120" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Описание функции (А0):&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="456" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-96" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Узлы диаграммы&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="920" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Формирование сетки и цчёт результатов спортивных мероприятий&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="460" x="326" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-98" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Приём заявок&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Управление регламентов&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Построение турнирной таблицы&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Проведение матчей и фиксация результатов&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Подведение итогов и формирование отчётности&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="346" x="330" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-99" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Входы&lt;/b&gt; - данные и запросы&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Управление&lt;/b&gt; - правила, ограничения и регламенты, определяющие порядок выполнения операций&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Выходы&lt;/b&gt; - информация и результаты&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Механизмы&lt;/b&gt; - Сотрудники и ресурсы, необходимые для выполнения функций&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="346" x="810" y="945" as="geometry" />
+        </mxCell>
+        <mxCell id="1B2p2Umz-KcQ7-k_Q241-100" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.5" y="989.29" as="sourcePoint" />
+            <mxPoint x="110.5" y="989.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

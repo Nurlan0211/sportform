@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Резюме — Насиров Нурлан Аллахверди оглы</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Шапка -->
+    <header class="hero">
+        <div class="container hero__inner">
+            <div class="hero__photo">
+                <img src="photo.jpg" alt="Фотография">
+            </div>
+            <div class="hero__info">
+                <h1>Насиров Нурлан Аллахверди оглы</h1>
+                <p class="hero__position">Специалист по информационным системам</p>
+                <ul class="hero__meta">
+                    <li>34 года</li>
+                    <li>г. Москва</li>
+                </ul>
+                <p class="hero__about">
+                    Начинающий специалист по информационным системам. Интересуюсь
+                    разработкой на C#/.NET, проектированием баз данных и созданием
+                    десктопных приложений. Быстро обучаюсь, внимателен к деталям,
+                    умею работать в команде.
+                </p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Образование -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section__title">Образование</h2>
+            <div class="card">
+                <h3>Колледж малого бизнеса №4</h3>
+                <p class="card__subtitle">Специальность: 09.02.07 «Информационные системы и программирование»</p>
+                <p class="card__subtitle">Квалификация: Специалист по информационным системам</p>
+                <p class="card__period">2023 — 2027</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Навыки -->
+    <section class="section section--alt">
+        <div class="container">
+            <h2 class="section__title">Навыки</h2>
+            <div class="skills">
+                <div class="skills__group">
+                    <h4>Языки программирования</h4>
+                    <ul class="tags">
+                        <li>C#</li>
+                        <li>Python</li>
+                        <li>SQL</li>
+                        <li>JavaScript</li>
+                    </ul>
+                </div>
+                <div class="skills__group">
+                    <h4>Технологии и фреймворки</h4>
+                    <ul class="tags">
+                        <li>.NET</li>
+                        <li>WPF</li>
+                        <li>ASP.NET</li>
+                        <li>HTML/CSS</li>
+                    </ul>
+                </div>
+                <div class="skills__group">
+                    <h4>Базы данных</h4>
+                    <ul class="tags">
+                        <li>PostgreSQL</li>
+                        <li>MS SQL Server</li>
+                        <li>pgAdmin 4</li>
+                    </ul>
+                </div>
+                <div class="skills__group">
+                    <h4>Инструменты</h4>
+                    <ul class="tags">
+                        <li>Git / GitHub</li>
+                        <li>Visual Studio</li>
+                        <li>Figma</li>
+                        <li>Procreate</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Опыт и практика -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section__title">Опыт и практика</h2>
+            <div class="card">
+                <h3>ООО «Молочный комбинат "Полесье"»</h3>
+                <p class="card__subtitle">Должность: Стажёр-программист</p>
+                <p class="card__period">Июнь 2025 — Июль 2025</p>
+                <ul class="card__list">
+                    <li>Проектирование ER-диаграммы информационной системы предприятия</li>
+                    <li>Разработка структуры базы данных в PostgreSQL (pgAdmin 4)</li>
+                    <li>Нормализация данных до третьей нормальной формы</li>
+                    <li>Написание SQL-скриптов для создания таблиц и связей</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Проекты -->
+    <section class="section section--alt">
+        <div class="container">
+            <h2 class="section__title">Проекты</h2>
+
+            <div class="projects">
+                <div class="card project">
+                    <h3>Информационная система молочного предприятия</h3>
+                    <p class="card__subtitle">Учебный проект</p>
+                    <p>
+                        База данных для учёта заказов, производства и спецификаций
+                        молочной продукции.
+                    </p>
+                    <h4>Реализованные функции:</h4>
+                    <ul class="card__list">
+                        <li>Учёт контрагентов (заказчиков и поставщиков)</li>
+                        <li>Оформление заказов покупателей</li>
+                        <li>Ведение спецификаций продукции</li>
+                        <li>Учёт производства и расхода материалов</li>
+                    </ul>
+                    <p class="project__tech">
+                        <strong>Технологии:</strong> PostgreSQL, pgAdmin 4, SQL
+                    </p>
+                    <a href="https://github.com/username/milk-enterprise" class="btn" target="_blank">Смотреть на GitHub</a>
+                </div>
+
+                <div class="card project">
+                    <h3>Приложение для учёта задач (WPF)</h3>
+                    <p class="card__subtitle">Личный проект</p>
+                    <p>
+                        Десктопное приложение для планирования и отслеживания
+                        личных задач с сохранением в локальную БД.
+                    </p>
+                    <h4>Реализованные функции:</h4>
+                    <ul class="card__list">
+                        <li>Добавление, редактирование и удаление задач</li>
+                        <li>Отметка выполнения и дедлайны</li>
+                        <li>Сохранение данных в SQLite</li>
+                    </ul>
+                    <p class="project__tech">
+                        <strong>Технологии:</strong> C#, .NET, WPF, SQLite
+                    </p>
+                    <a href="https://github.com/nurlan0211/task-manager" class="btn" target="_blank">Смотреть на GitHub</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Контакты -->
+    <section class="section">
+        <div class="container">
+            <h2 class="section__title">Контакты</h2>
+            <ul class="contacts">
+                <li>
+                    <span class="contacts__label">Телефон:</span>
+                    <a href="tel:+79198634592">+7 (919) 863-45-92</a>
+                </li>
+                <li>
+                    <span class="contacts__label">Email:</span>
+                    <a href="mailto:nur91nas@gmail.com">ivanov@example.com</a>
+                </li>
+                <li>
+                    <span class="contacts__label">GitHub:</span>
+                    <a href="https://github.com/Nurlan0211" target="_blank">github.com/username</a>
+                </li>
+                <li>
+                    <span class="contacts__label">Telegram:</span>
+                    <a href="https://t.me/aika555" target="_blank">@username</a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Подвал -->
+    <footer class="footer">
+        <div class="container">
+            <p>© 2026 Насиров Нурлан Аллахверди оглы</p>
+        </div>
+    </footer>
+
+</body>
+</html>
